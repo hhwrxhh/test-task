@@ -72,6 +72,16 @@ python src/inference.py --model_dir models/ --text "Everest is the best"
    ```
 2. Open the notebook file `demo.ipynb`.
 3. Select the kernel **demo-env** and run all cells.
+---
+- If you encounter the following error while running the data_creation.ipynb:
+
+`Entry Not Found for url: https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false. additional_chat_templates does not exist on "main"`,
+please run the following command to fix it:
+
+```bash
+pip install -U transformers
+```
+
 
 ---
 
