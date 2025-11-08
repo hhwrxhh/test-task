@@ -1,4 +1,4 @@
-# Mountain NER Project
+# Mountain NER 
 
 ### Overview
 
@@ -77,7 +77,7 @@ python src/inference.py --model_dir models/ --text "Everest is the best"
 
 ## Download Pretrained Models
 
-Вownload the pretrained model and tokenizer from the link and place them in the `models/` folder:
+Download the pretrained model and tokenizer from the link and place them in the `models/` folder:
 
 **[Download pretrained model and tokenizer](https://drive.google.com/drive/folders/1LaRpOROiHCd6lKG9F_dDF6qlnrYN5Lk5?usp=sharing)**
 

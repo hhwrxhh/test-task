@@ -1,0 +1,5 @@
+numpy>=1.23.0
+matplotlib>=3.7.0
+ipykernel>=6.2
+opencv-python>=4.12.0
+
